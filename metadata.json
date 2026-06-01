@@ -1,0 +1,6 @@
+{
+  "name": "New Sri Balaji Medical Store",
+  "description": "Your trusted local healthcare partner in Chinna Manyam, Kadapa District, AP. Providing genuine medicines, wellness products, and reliable health services to the local community.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
