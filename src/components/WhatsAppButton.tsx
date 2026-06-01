@@ -35,7 +35,7 @@ export default function WhatsAppButton() {
             <span>Store Online</span>
           </div>
           <p className="text-slate-300 text-[11px] leading-relaxed">
-            Need to check if a pill is in stock? Chat directly with B. Satish Kumar (B.Pharm Pharmacist) on WhatsApp!
+            Need to check if a pill is in stock? Chat directly with M. Venkata Bala Sundar (B.Pharm Pharmacist) on WhatsApp!
           </p>
         </div>
       )}

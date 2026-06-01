@@ -52,7 +52,7 @@ export default function Contact() {
           </h2>
           <div className="h-1 w-20 bg-emerald-500 mx-auto rounded-full mt-4" />
           <p className="text-base text-slate-500 font-medium pt-2">
-            We are centrally located in Chinna Manyam. Need directions, have wholesale medicine bulk lists, or want to call us for availability? We are ready.
+            We are centrally located in Chinna Mandem. Need directions, have wholesale medicine bulk lists, or want to call us for availability? We are ready.
           </p>
         </div>
 
@@ -114,7 +114,7 @@ export default function Contact() {
             <div className="bg-white border border-slate-150 p-3 rounded-3xl shadow-xs aspect-video sm:aspect-none sm:h-[360px] overflow-hidden flex flex-col justify-between">
               <iframe
                 id="contact-google-maps-iframe"
-                src="https://maps.google.com/maps?q=Chinna%20Manyam,%20Kadapa%20District,%20Andhra%20Pradesh,%20India&t=&z=14&ie=UTF8&iwloc=&output=embed"
+                src="https://maps.google.com/maps?q=Chinna%20Mandem,%20Kadapa%20District,%20Andhra%20Pradesh,%20India&t=&z=14&ie=UTF8&iwloc=&output=embed"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}
@@ -157,7 +157,7 @@ export default function Contact() {
                 <div className="space-y-1">
                   <h4 className="font-bold text-emerald-950 text-base">Inquiry Compiled Perfectly!</h4>
                   <p className="text-emerald-850 text-xs font-semibold leading-relaxed max-w-xs mx-auto">
-                    We are now opening WhatsApp to deliver your inquiry securely to B. Satish Kumar (Pharmacist). Please check the active chat window!
+                    We are now opening WhatsApp to deliver your inquiry securely to M. Venkata Bala Sundar (Pharmacist). Please check the active chat window!
                   </p>
                 </div>
                 <div className="text-[10px] text-emerald-700 font-mono animate-pulse font-bold bg-white inline-block px-3 py-1 rounded-sm">

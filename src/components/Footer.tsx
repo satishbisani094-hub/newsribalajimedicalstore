@@ -42,7 +42,7 @@ export default function Footer() {
                 <MapPin className="h-5.5 w-5.5 animate-pulse" />
               </div>
               <div>
-                <h4 className="text-white text-sm font-extrabold tracking-tight">Chinna Manyam Main Road</h4>
+                <h4 className="text-white text-sm font-extrabold tracking-tight">Chinna Mandem Main Road</h4>
                 <p className="text-[10px] text-slate-500">Accessible local parking</p>
               </div>
             </div>
@@ -84,7 +84,7 @@ export default function Footer() {
             </a>
             
             <p className="text-xs text-slate-400 font-medium leading-relaxed max-w-sm">
-              We operate as a trustworthy healthcare partner in Chinna Manyam, AP. Our catalog includes genuine tablets, liquid formulations, specialty diabetic care, orthopedic supports, first-aid wraps, and baby wellness needs.
+              We operate as a trustworthy healthcare partner in Chinna Mandem, AP. Our catalog includes genuine tablets, liquid formulations, specialty diabetic care, orthopedic supports, first-aid wraps, and baby wellness needs.
             </p>
 
             <div className="text-xs text-slate-500 font-mono space-y-1">
@@ -124,13 +124,6 @@ export default function Footer() {
                 className="hover:text-emerald-450 transition-colors"
               >
                 Browse Products
-              </a>
-              <a 
-                href="#reviews" 
-                onClick={(e) => handleLinkClick(e, "#reviews")}
-                className="hover:text-emerald-450 transition-colors"
-              >
-                Client Testimonials
               </a>
               <a 
                 href="#contact" 
@@ -185,7 +178,7 @@ export default function Footer() {
       {/* Sub footer layout */}
       <div className="border-t border-slate-800/80 bg-slate-950/80 py-6 text-center text-[11px] font-medium text-slate-500">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-4">
-          <p>© {currentYear} New Sri Balaji Medical Store, Chinna Manyam. All Rights Reserved.</p>
+          <p>© {currentYear} New Sri Balaji Medical Store, Chinna Mandem. All Rights Reserved.</p>
           <p className="flex items-center gap-1">
             <span>Providing genuine regional health access. Certified B.Pharm Pharmacist.</span>
           </p>

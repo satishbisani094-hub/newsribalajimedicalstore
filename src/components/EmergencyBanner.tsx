@@ -18,7 +18,7 @@ export default function EmergencyBanner() {
           EMERGENCY SERVICE & PRESCRIPTIONS:
         </span>
         <span className="text-red-100 font-medium">
-          Need urgent medicines in Chinna Manyam? We are here to support!
+          Need urgent medicines in Chinna Mandem? We are here to support!
         </span>
       </div>
       <div className="flex items-center gap-4 shrink-0 font-medium">

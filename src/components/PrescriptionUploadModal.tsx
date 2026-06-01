@@ -138,7 +138,7 @@ export default function PrescriptionUploadModal({ onClose }: PrescriptionUploadM
                 Ready to Send to Pharmacist!
               </h4>
               <p className="text-xs sm:text-sm text-slate-500 leading-relaxed font-semibold max-w-sm mx-auto">
-                Your details are perfectly compiled. Click below to securely connect with our registered pharmacist on WhatsApp and send your prescription. B. Satish Kumar (B.Pharm) will immmediately reply with availability!
+                Your details are perfectly compiled. Click below to securely connect with our registered pharmacist on WhatsApp and send your prescription. M. Venkata Bala Sundar (B.Pharm) will immmediately reply with availability!
               </p>
             </div>
 

@@ -2,15 +2,15 @@ import { ServiceItem, ProductItem, ReviewItem, FAQItem } from "./types";
 
 export const STORE_INFO = {
   name: "New Sri Balaji Medical Store",
-  tagline: "Your Trusted Healthcare Partner in Chinna Manyam",
-  owner: "B. Satish Kumar (B.Pharm)",
+  tagline: "Your Trusted Healthcare Partner in Chinna Mandem",
+  owner: "M. Venkata Bala Sundar (B.Pharm)",
   license: "Drug License No: AP/KDP/2023-89472",
-  address: "Main Road, Chinna Manyam, Kadapa District, Andhra Pradesh - 516269, India",
-  googleMapsLink: "https://maps.google.com/?q=Chinna+Manyam+Kadapa+Andhra+Pradesh",
-  phone: "+91 94943 28351",
-  whatsapp: "+91 94943 28351",
+  address: "Main Road, Chinna Mandem, Kadapa District, Andhra Pradesh - 516269, India",
+  googleMapsLink: "https://maps.google.com/?q=Chinna+Mandem+Kadapa+Andhra+Pradesh",
+  phone: "+91 82975 97690",
+  whatsapp: "+91 82975 97690",
   email: "sribalajimedical2026@gmail.com",
-  emergencyPhone: "+91 93465 52839",
+  emergencyPhone: "+91 82975 97690",
   businessHours: {
     weekdays: "8:00 AM - 10:00 PM",
     sunday: "8:00 AM - 9:00 PM",
@@ -71,7 +71,7 @@ export const SERVICES: ServiceItem[] = [
   {
     id: "home-delivery",
     title: "Home Delivery Service",
-    description: "Convenient doorstep delivery of all your essential medicines for residents within Chinna Manyam and neighboring villages.",
+    description: "Convenient doorstep delivery of all your essential medicines for residents within Chinna Mandem and neighboring villages.",
     iconName: "Truck",
     benefits: ["Doorstep Medication Dropoff", "Easy WhatsApp Prescription Upload", "Contactless Cash On Delivery", "Timely Urgent Deliveries"]
   }
@@ -117,7 +117,7 @@ export const WHY_CHOOSE_US = [
   {
     id: "trusted-community",
     title: "Trusted by Local Community",
-    description: "Proudly serving local families, seniors, and agricultural workers of Chinna Manyam and Kadapa rural areas with stellar dedication.",
+    description: "Proudly serving local families, seniors, and agricultural workers of Chinna Mandem and Kadapa rural areas with stellar dedication.",
     iconName: "Users"
   }
 ];
@@ -393,7 +393,7 @@ export const REVIEWS: ReviewItem[] = [
     rating: 5,
     text: "The home delivery option is a lifesaver in emergency times. I sent my prescription photo on their WhatsApp, and within an hour, the medicines were delivered to my home in the village. Genuine prices too.",
     role: "IT Professional (WFH)",
-    location: "Chinna Manyam Main Bazar",
+    location: "Chinna Mandem Main Bazar",
     date: "March 15, 2026"
   },
   {
@@ -416,7 +416,7 @@ export const FAQS: FAQItem[] = [
   },
   {
     id: "f2",
-    question: "How can I order home delivery in Chinna Manyam?",
+    question: "How can I order home delivery in Chinna Mandem?",
     answer: "It is exceptionally simple! Just click the 'WhatsApp Order' button on this website, upload a clear photo of your doctor's valid prescription, and provide your home address. Our delivery executive will bring it to your doorstep.",
     category: "Services"
   },
@@ -435,7 +435,7 @@ export const FAQS: FAQItem[] = [
   {
     id: "f5",
     question: "What are your operating working hours?",
-    answer: "We are open daily to serve the Chinna Manyam community. Monday to Saturday: 8:00 AM – 10:00 PM. On Sundays: 8:00 AM – 9:00 PM. For emergency support, we keep our helpline active 24/7.",
+    answer: "We are open daily to serve the Chinna Mandem community. Monday to Saturday: 8:00 AM – 10:00 PM. On Sundays: 8:00 AM – 9:00 PM. For emergency support, we keep our helpline active 24/7.",
     category: "Store Info"
   }
 ];

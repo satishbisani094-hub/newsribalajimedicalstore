@@ -11,7 +11,6 @@ import AboutUs from "./components/AboutUs";
 import Services from "./components/Services";
 import WhyChooseUs from "./components/WhyChooseUs";
 import Products from "./components/Products";
-import Reviews from "./components/Reviews";
 import FAQ from "./components/FAQ";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
@@ -45,9 +44,6 @@ export default function App() {
 
         {/* Interactive medicine catalog browser with check-out simulation */}
         <Products />
-
-        {/* Community feedback and star scores */}
-        <Reviews />
 
         {/* Dynamic FAQ accordions list */}
         <FAQ />

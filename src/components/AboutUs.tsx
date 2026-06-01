@@ -11,7 +11,7 @@ export default function AboutUs() {
     },
     {
       title: "Qualified Guidance",
-      text: "Led by certified pharmacist B. Satish Kumar (B.Pharm). We analyze and confirm dosages, interaction risks, and administration instructions."
+      text: "Led by certified pharmacist M. Venkata Bala Sundar (B.Pharm). We analyze and confirm dosages, interaction risks, and administration instructions."
     },
     {
       title: "Empathetic Local Care",
@@ -33,11 +33,11 @@ export default function AboutUs() {
             About Us
           </h2>
           <p className="text-3xl sm:text-4xl font-sans font-black text-slate-900 tracking-tight">
-            Our Care Roots in the Chinna Manyam Community
+            Our Care Roots in the Chinna Mandem Community
           </p>
           <div className="h-1 w-20 bg-blue-600 mx-auto rounded-full mt-4" />
           <p className="text-base text-slate-500 font-medium pt-2">
-            Established to provide a reliable, clean, certified standard of pharmacy access for rural and urban families of Chinna Manyam and broader Kadapa.
+            Established to provide a reliable, clean, certified standard of pharmacy access for rural and urban families of Chinna Mandem and broader Kadapa.
           </p>
         </div>
 
@@ -58,7 +58,7 @@ export default function AboutUs() {
               </h3>
               
               <p className="text-slate-600 text-sm mt-3 leading-relaxed font-medium">
-                At <strong>New Sri Balaji Medical Store</strong>, we believe local healthcare is a sacred trust. Our home in Chinna Manyam, Kadapa, is designed to elevate pharmaceutical reliability. Far beyond simply dispensing pills, we exist to deliver relief, peace of mind, and accurate health awareness.
+                At <strong>New Sri Balaji Medical Store</strong>, we believe local healthcare is a sacred trust. Our home in Chinna Mandem, Kadapa, is designed to elevate pharmaceutical reliability. Far beyond simply dispensing pills, we exist to deliver relief, peace of mind, and accurate health awareness.
               </p>
 
               <div className="mt-6 flex flex-col sm:flex-row gap-4 items-start sm:items-center border-t border-slate-200/60 pt-6">

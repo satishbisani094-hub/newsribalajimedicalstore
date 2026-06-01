@@ -47,7 +47,7 @@ export default function Hero({ onOpenUpload }: HeroProps) {
               className="inline-flex items-center gap-2 bg-emerald-100 border border-emerald-200/60 px-3.5 py-1.5 rounded-full text-emerald-800 text-xs font-bold tracking-wide uppercase shadow-2xs"
             >
               <Award className="h-4.5 w-4.5 text-emerald-600 shrink-0" />
-              <span>Chinna Manyam's Highly Rated Pharmacy</span>
+              <span>Chinna Mandem's Highly Rated Pharmacy</span>
             </motion.div>
 
             {/* Main heading */}
@@ -59,7 +59,7 @@ export default function Hero({ onOpenUpload }: HeroProps) {
                 className="text-4xl sm:text-5xl lg:text-6xl font-sans font-extrabold text-slate-900 tracking-tight leading-tight sm:leading-none"
               >
                 Your <span className="text-blue-600">Trusted</span> Healthcare Partner in{" "}
-                <span className="text-emerald-600 block sm:inline">Chinna Manyam</span>
+                <span className="text-emerald-600 block sm:inline">Chinna Mandem</span>
               </motion.h1>
 
               {/* Subheading */}
